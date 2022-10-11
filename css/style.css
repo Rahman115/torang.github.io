@@ -204,6 +204,12 @@ header nav ul li a.active {
     margin: 0 auto 0 auto;
 }
 
+.pages .slideshow-container .mySlides {
+    height: 340px;
+    overflow: hidden;
+    margin: auto;
+}
+
 /* Next & previous buttons */
 .prev,
 .next {
